@@ -1,0 +1,14 @@
+{
+  "name": "comment",
+  "repo": "mnmly/comment",
+  "description": "Make block of text into commented one.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}

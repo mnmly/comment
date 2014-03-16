@@ -1,0 +1,17 @@
+{
+  "name": "comment",
+  "version": "0.0.0",
+  "description": "Make block of text into commented one.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "author": "",
+  "license": "MIT"
+}
